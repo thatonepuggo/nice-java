@@ -1,0 +1,2 @@
+pug0/nice/Main.java
+ pug0.nice.Main
